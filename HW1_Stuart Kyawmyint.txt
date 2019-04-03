@@ -1,5 +1,5 @@
 The address where we can access Node on Engineering Servers:
 http://flip3.engr.oregonstate.edu:55551
 
-A link to your GitHub repository:
+Link to your GitHub repository:
 https://github.com/skyawmyint/cs-290
